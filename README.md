@@ -1,66 +1,66 @@
-# Laravel: The Right Way
+# Laravel: Правильный путь
+### Перевод руководства http://laraveltherightway.com
+## Описание
 
-## Overview
+Это репозиторий GitHub Pages проекта _Laravel: Правильный путь_.
 
-This is the GitHub Pages repository for the _Laravel: The Right Way_ project.
+* Этот вебсайт работает с помощью Jekyll.
+* Каждая секция и подсекция &mdash; это Markdown файл в директории `_posts/`. 
+* Подсекции имеют тэг `isChild: true` в их шапке.
+* Навигация и структура страниц генерируются автоматически.
 
-* This website is a Jekyll project.
-* Each section and sub-section are a Markdown file in `_posts/`.
-* Sub-sections have `isChild: true` in their front matter.
-* The navigation and page structure are automatically generated.
+## Расскажите всем!
 
-## Spread the Word!
+Руководство _Laravel: Правильный путь_ содержит веб-баннеры, которые вы можете использовать на своём сайте. Окажите поддержку, показав начинающим PHP-разработчикам где они могут найти полезную информацию!
 
-_Laravel: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP
-developers know where to find good information!
+[Посмотреть баннеры](http://www.laraveltherightway.com/banners.html)
 
-[See Banner Images](http://www.laraveltherightway.com/banners.html)
+## Как помочь?
 
-## How to Contribute
+1. Сделайте форк, отредактируйте.
+2. Можете установить [Ruby](https://rvm.io/rvm/install/) вместе с гемом [Jekyll](https://github.com/mojombo/jekyll/) для локального предпросмотра.
+3. Отправьте pull request для потверждения.
 
-1. Fork and edit
-2. Optionally install [Ruby](https://rvm.io/rvm/install/) with [Jekyll](https://github.com/mojombo/jekyll/) gem to preview locally
-3. Submit pull request for consideration
+###  Руководство по помощи
 
-### Contributor Style Guide
+1. Используйте американский английский (для основного репозитория), и русский для дополнительного (переведенного).
+2. Используйте четыре пробела для выделения текста; не используйте табы.
+3. Ограничивайте длину строки 120 символами.
+4. Примеры кода, добавляемые в руководство, должны придерживаться PSR-1 или выше.
 
-1. Use American English spelling (*primary English repo only*)
-2. Use four (4) spaces to indent text; do not use tabs.
-3. Wrap all text to 120 characters.
-4. Code samples should adhere to PSR-1 or higher.
-
-## Where
+## Где
 
 <http://www.laraveltherightway.com>
 
-* [English](http://www.phptherightway.com)
+* [English](http://www.laraveltherightway.com)
 
-### Translations
+### Перевод
 
-If you are interested in translating _Laravel: The Right Way_, fork this repo on GitHub and publish your localized fork to your own GitHub Pages account. We'll link to your translation from the primary document.
+Если вы заинтересованы в переводе _PHP: Правильный Путь_, сделайте форк основного репозитория на GitHub и опубликуйте переведенный форк на вашем собственном аккаунте GitHub Pages. Мы будем ссылаться на ваш перевод из основного документа.
 
-To avoid fragmentation and reader confusion, please choose one of these options:
+Чтобы избежать фрагментации и путаницы читателей, пожалуйста выберите один из следующих вариантов:
 
-1. We link to your GitHub Pages fork with `[username].github.io/laraveltherightway`
-2. We link to your GitHub Pages fork with a subdomain (e.g. "ru.laraveltherightway.com")
+1. Мы будем ссылаться на ваш форк GitHub Pages `[имя_пользователя].github.com/laravel-the-right-way`
+2. Мы будем ссылаться на ваш форк GitHub Pages с субдоменом (например "ru.laraveltherightway.com")
 
-If you use a subdomain, enter the subdomain into the `CNAME` file, and ask us to setup DNS for you. If you do not use a subdomain, remove the `CNAME` file entirely else your fork will not build when pushed.
+Если вы используете субдомен, введите его в файле `CNAME`, и попросите нас установить DNS. Если вы не используете субдомен, удалите файл `CNAME`, иначе ваш форк не будет собран, когда вы сделаете push.
 
-Add information about your translation in the [wiki page](https://github.com/laraveltherightway/laraveltherightway.gitjub.io/wiki/Translations).
+Когда ваш перевод будет готов, откройте issue в Issue Tracker, чтобы дать нам знать.
 
-When your translation is ready, open an issue on the Issue Tracker to let us know.
+## Почему
 
-## Why
+В последнее время было очень много дискуссий о том, как сообществу PHP не хватает достоверной информации для начинающих PHP программистов. Этот репозиторий призван решить эту проблему.
 
-There's been a lot of discussion lately about how the PHP community lacks sufficient, credible information for programmers new to PHP. This repository aims to solve this problem.
+## Кто
 
-## Who
+Имя разработчика [Darwin Biler](http://twitter.com/buonzz). 
 
-My name is [Darwin Biler](http://twitter.com/buonzz). 
-
-### Collaborators
+### Соавторы
 
 * [Darwin Biler](http://www.darwinbiler.com/)
+
+### Перевод
+* [Ivan Chernov](http://twitter.com/vanadium23) — инициатор русского перевода.
 
 ## License
 

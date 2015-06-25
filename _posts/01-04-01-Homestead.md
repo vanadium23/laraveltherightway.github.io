@@ -5,9 +5,9 @@ anchor:  homestead
 
 ## Homestead {#homestead_title}
 
-Laravel is not only using Vagrant as the official development environment but also has its own base box called "Homestead". 
-You can use Homestead to start developing with Laravel without the hassle of setting up your local environment for Laravel.
+Laravel не только использует Vagrant в качестве официальной среды разработки, но также имеет свой собственный базовый образ, который называется "Homestead". 
+Вы можете использовать Homestead для начала разработки на Laravel без хлопот по настройке системных зависимостей Laravel'a.
 
-The instructions and usage of homestead can be found in the [Official Documentation][homestead-docs].
+Инструкции по использованию Homestead можно найти в [официальной документации][homestead-docs].
 
 [homestead-docs]: http://laravel.com/docs/5.0/homestead

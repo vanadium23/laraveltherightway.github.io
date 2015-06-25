@@ -1,11 +1,11 @@
 ---
-title:   Debuging
+title:   Отладка
 isChild: true
 anchor:  debugging
 ---
 
-## Debugging {#debugging_title}
+## Отладка {#debugging_title}
 
-Laravel's cool error page is something that it is known for. Thanks for the [Whoops library][whoops-url] which powers the error page you are seeing whenever there is an error.
+Крутая ошибка страниц Laravel - это нечто, благодаря чему Laravel известен. Спасибо [библиотеке Whoops][whoops-url], которая генерирует страницы ошибок, на которые Вы смотрите во время ошибок.
 
 [whoops-url]:https://github.com/filp/whoops

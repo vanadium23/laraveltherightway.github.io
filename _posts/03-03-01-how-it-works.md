@@ -3,8 +3,8 @@ isChild: true
 anchor:  howitworks
 ---
 
-## How Laravel Works? {#howitworks_title}
+## Как работает Laravel? {#howitworks_title}
 
-Christopher Pitt has impressive explanation of the inner workings of Laravel, you can check it out in [https://rebuildinglaravel.com/] [rebuild-laravel-url]
+Christopher Pitt великолепно объяснил внутрнее устройство Laravel. Вы можете прочитать его по следующей ссылке [https://rebuildinglaravel.com/] [rebuild-laravel-url]
 
 [rebuild-laravel-url]: https://rebuildinglaravel.com/
