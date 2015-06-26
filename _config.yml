@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: /laraveltherightway.github.io/
 highlighter: pygments
 markdown: kramdown
 permalink: date
