@@ -1,9 +1,10 @@
 ---
 isChild: true
 anchor:  components
+title: Компоненты
 ---
 
-## Components {#components_title}
+## Компоненты {#components_title}
 
 Illuminate components which can be found in
 https://github.com/illuminate

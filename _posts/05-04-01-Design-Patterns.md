@@ -1,11 +1,12 @@
 ---
 isChild: true
 anchor:  design_patterns
+title: Шаблоны проектирования
 ---
 
-## Design Patterns {#design_patterns_title}
+## Шаблоны проектирования {#design_patterns_title}
 
-It is easy to get the your Laravel application to get messed up if you don't have any sort of pattern to follow. The following design patterns are recommended for those who are building an application with Laravel or want to refactor their existing projects:
+Очень просто напортачить со своим проектом на Laravel, если Вы не используете никакие шаблоны. Следующие шаблоны проектирования рекомендуются для разработки на Laravel с нуля или если Вы хотите переписать существующий проект:
 
 * [Domain Driven Design][ddd-url]
 * [Don't call Eloquent models directly, Use Repositories!][repo-url]

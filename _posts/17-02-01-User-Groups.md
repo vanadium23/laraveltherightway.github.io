@@ -1,9 +1,10 @@
 ---
 isChild: true
 anchor:  user_groups
+title:  Пользовательские группы
 ---
 
-## User Groups {#user_groups_title}
+## Пользовательские группы {#user_groups_title}
 
 - [Laravel Philippines](https://www.facebook.com/groups/laravelph/)
 - [Laravel Iran](http://laratalks.com)

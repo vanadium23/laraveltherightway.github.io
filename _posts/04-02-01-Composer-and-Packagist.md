@@ -1,11 +1,12 @@
 ---
 isChild: true
 anchor:  composer_and_packagist
+title: Composer и Packagist
 ---
 
-## Composer and Packagist {#composer_and_packagist_title}
+## Composer и Packagist {#composer_and_packagist_title}
 
-By default, it is using Packagist as repository and GitHub to download the files itself. But you can define your own repositories by setting up your own [Satis][satis] mirror of packages. Although you can use any class or even plain php functions inside Laravel (as long as it can be autoloaded). This is not a recommended practice. Make your own [Composer library][own-composer] for each application specific classes and include it as a dependency in the composer.json file.
+По умолчанию, Laravel использует Packagist в качестве репозитория и GitHub для скачивания своих файлов. Но Вы можете задать свои репозитории с помощью настройки [Satis][satis] зеркала пакетов. Также Вы можете использовать любой класс или даже функцию в Laravel (до тех пор пока она может быть автозагружена). Но это не рекоммендуемая практика. Лучше оформить свои наработки в виде [Composer библиотеки][own-composer] и включить её как зависимость в файл composer.json.
 
 [satis]:https://getcomposer.org/doc/articles/handling-private-packages-with-satis.md
 [own-composer]:http://knpuniversity.com/screencast/question-answer-day/create-composer-package

@@ -1,6 +1,7 @@
 ---
 isChild: true
 anchor:  command_line_interface
+title: Интерфейс коммандой строки
 ---
 
 ## Интерфейс коммандой строки {#command_line_interface_title}

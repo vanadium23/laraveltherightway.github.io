@@ -1,10 +1,11 @@
 ---
 isChild: true
 anchor:  date_and_time
+title: Дата и время
 ---
 
-## Date and Time {#date_and_time_title}
+## Дата и время {#date_and_time_title}
 
-Although PHP has a class named DateTime to help you when reading, writing, comparing or calculating with date and time. It is recommended that you use the [Carbon library][carbon-url] for dealing with dates.
+Не смотря на то, что PHP имеет встроенный класс DateTime для помощи Вам в чтении, записи, сравнениях и вычислениях даты или времени, рекомендуется использовать [библиотеку Carbon][carbon-url] для работы с датами.
 
 [carbon-url]:https://github.com/briannesbitt/Carbon

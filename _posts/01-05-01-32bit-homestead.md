@@ -3,8 +3,8 @@ isChild: true
 anchor:  32bit-homestead
 ---
 
-## Homestead for 32-bit Machines {#homestead32bit_title}
+## Homestead для 32-bit компьютеров {#homestead32bit_title}
 
-There are instances though that Homestead wont run in your 32-bit development computer because you can't enable hardware virtualization (VT-x). This is required by Homestead because the basebox being used to build the Homestead is using ubuntu/trusty64 box, which is a 64-bit machine. For some people who can't enable it in their BIOS, or their computer has no support for VT-x at all, you can use the 32-bit version of the Homestead in [here][32bit-homestead-here]
+Homestead не будет запускаться на Вашем 32-битном компьютере, поскольку ему необходима аппаратная виртуализация (VT-x). Она необходима  Homestead, поскольку его базовый образ - ubuntu/trusty64, которая является 64-битной машиной. Для тех людей, которые не могут включить это в своём BIOS, или для компьютеров без поддержки VT-x, можно использовать 32-битную версию Homestead, доступную по [ссылке][32bit-homestead-here].
 
 [32bit-homestead-here]: https://github.com/buonzz/homestead32

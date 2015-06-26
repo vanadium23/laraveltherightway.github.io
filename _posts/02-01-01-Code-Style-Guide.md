@@ -1,5 +1,6 @@
 ---
 anchor: code_style_guide
+title: Стандарты написания кода
 ---
 
 # Стандарты написания кода {#code_style_guide_title}

@@ -1,6 +1,7 @@
 ---
 isChild: true
 anchor:  programming_paradigms
+title: Парадигмы программирования
 ---
 
 ## Парадигмы программирования {#programming_paradigms_title}

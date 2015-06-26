@@ -1,13 +1,14 @@
 ---
 isChild: true
 anchor:  the_basics
+title: Основы
 ---
 
-## The Basics {#the_basics_title}
+## Основы {#the_basics_title}
 
-Laravel has tons of features which might be overwhelming at first. 
+Laravel имеет тысячи особенностей, которые могут Вас сначала отпугнуть. 
 
-Here are some articles and resources that may be useful to get on the same page with Laravel.
+Далее приводится несколько ресурсов и статей, которые будут полезны для ознакомления с Laravel.
 
 * [Composer: Part 1 – What & Why?][li1]
 * [Why use an autoloader? why just don't require the files?][li2]

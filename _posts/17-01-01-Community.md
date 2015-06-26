@@ -1,8 +1,9 @@
 ---
 anchor: community
+title:  Сообщество
 ---
 
-# Community {#community_title}
+# Сообщество {#community_title}
 
 - [Twitter (@laravelphp)](https://twitter.com/laravelphp)
 - [Slack (#laravel)](http://larachat.co/)

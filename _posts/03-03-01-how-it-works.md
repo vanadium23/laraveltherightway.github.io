@@ -1,9 +1,10 @@
 ---
+title: Как работает Laravel
 isChild: true
 anchor:  howitworks
 ---
 
-## Как работает Laravel? {#howitworks_title}
+## Как работает Laravel {#howitworks_title}
 
 Christopher Pitt великолепно объяснил внутрнее устройство Laravel. Вы можете прочитать его по следующей ссылке [https://rebuildinglaravel.com/] [rebuild-laravel-url]
 

@@ -1,9 +1,10 @@
 ---
 isChild: true
 anchor:  people_to_follow
+title: Их следует читать в твиттере
 ---
 
-## People to Follow {#people_to_follow_title}
+## Их следует читать в твиттере {#people_to_follow_title}
 
 * [Taylor Otwell](https://twitter.com/taylorotwell)
 * [Dayle Rees](https://twitter.com/daylerees)

@@ -1,9 +1,10 @@
 ---
 isChild: true
 anchor:  php_paas_providers
+title: PHP PaaS Провайдеры
 ---
 
-## PHP PaaS Providers {#php_paas_providers_title}
+## PHP PaaS Провайдеры {#php_paas_providers_title}
 
 * [Forge](https://forge.laravel.com/)
 * [Fortrabbit](http://www.fortrabbit.com/)

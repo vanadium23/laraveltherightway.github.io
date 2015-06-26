@@ -1,9 +1,10 @@
 ---
 isChild: true
 anchor:  from_the_source
+title: Из источника
 ---
 
-## From the Source {#from_the_source_title}
+## Из источника {#from_the_source_title}
 
-* [Laravel Website](http://laravel.com/)
-* [Laravel Documentation](http://laravel.com/docs)
+* [Официальный сайт Laravel](http://laravel.com/)
+* [Документация по Laravel](http://laravel.com/docs)
